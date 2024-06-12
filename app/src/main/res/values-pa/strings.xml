@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਟਾਸਕਬੁੱਕ</string>
+    <string name="have_an_account">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਇੱਕ ਖਾਤਾ ਹੈ?\t</string>
+    <string name="do_not_an_account">ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ?\t</string>
+    <string name="login">ਲਾਗਿਨ</string>
+    <string name="register">ਰਜਿਸਟਰ</string>
+    <string name="username_or_emailId">ਯੂਜ਼ਰਨਾਂਮ ਜਾਂ ਈਮੇਲ ਆਈਡੀ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="Submit">ਜਮਾ ਕਰੋ</string>
+    <string name="username">ਯੂਜ਼ਰਨਾਮ</string>
+    <string name="email_id">ਈਮੇਲ ਆਈਡੀ</string>
+    <string name="firstname">ਪਹਿਲਾ ਨਾਂ</string>
+    <string name="lastname">ਅਖੀਰਲਾ ਨਾਂ</string>
+    <string name="confirm_password">ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="welcome">ਜੀ ਆਇਆ ਨੂੰ, %s</string>
+    <string name="no_user_found">ਕੋਈ ਯੂਜ਼ਰ ਨਹੀਂ ਮਿਲਿਆ</string>
+</resources>

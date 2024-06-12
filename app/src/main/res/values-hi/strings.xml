@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">टास्कबुक</string>
+    <string name="have_an_account">क्या आपके पास पहले से ही खाता है?\t</string>
+    <string name="do_not_an_account">क्या आपके पास खाता नहीं है?\t</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">रजिस्टर</string>
+    <string name="username_or_emailId">उपयोगकर्ता नाम या ईमेल आईडी</string>
+    <string name="password">पासवर्ड</string>
+    <string name="Submit">सबमिट</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="email_id">ईमेल आईडी</string>
+    <string name="firstname">पहला नाम</string>
+    <string name="lastname">अंतिम नाम</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="welcome">स्वागत है, %s</string>
+    <string name="no_user_found">कोई उपयोगकर्ता नहीं मिला</string>
+
+</resources>
